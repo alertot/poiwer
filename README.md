@@ -12,4 +12,5 @@ Assistant in PHP object injection exploitation.
 We're working on it, but you can review the available commands
 using `./poiwer -h`.
 
-You can also review our presentation at ekoparty [here](https://speakerdeck.com/alertot/php-object-injection-revival).
+You can also review our presentation at ekoparty [here](https://speakerdeck.com/alertot/php-object-injection-revival)
+and a video showing [the editor in use](https://youtu.be/2JbpCBn6pZE).
